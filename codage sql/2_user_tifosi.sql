@@ -1,4 +1,4 @@
--- 1/ Création de l'utilisateur avec mot de passe)  
+-- 1/ Création de l'utilisateur avec mot de passe 
 CREATE USER IF NOT EXISTS 'tifosi'@'localhost'
   IDENTIFIED BY 'Password*000';
 
